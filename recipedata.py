@@ -16,5 +16,5 @@ def get_json(url):
 
 MY_API_KEY='5dbaf09b8f4f43e0934b075ceb0d301a'
 #url = f'https://api.spoonacular.com/recipes/findByIngredients?apiKey={MY_API_KEY}&ingredients=apples,+flour,+sugar&number=2'
-url='https://api.spoonacular.com/recipes/findByIngredients?apiKey=5dbaf09b8f4f43e0934b075ceb0d301a&ingredients=apples,+flour,+sugar&number=2'
+url=F'https://api.spoonacular.com/recipes/findByIngredients?apiKey={MY_API_KEY}&ingredients=apples,+flour,+sugar&number=2'
 pprint(get_json(url))

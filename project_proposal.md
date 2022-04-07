@@ -1,4 +1,4 @@
-Project Proposal
+Project Proposal by Ash Gao & Daisy Liu
     The main purpose of our project is to build a webapp that will generate recipes of dishes when the user inputs ingredients they have on hand.
 Data Base:
     The database we are going to use is ‘https://spoonacular.com/food-api’ dataset, which provides over 5000+ recipes with 2600+ ingredients. The dataset could help us to deal with most inputs of our users. We can request an api key for free from the website.

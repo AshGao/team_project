@@ -4,6 +4,9 @@ For the functions in recipe_helper.py, the first function we need is a get_json 
 
 Have fun with our code!
 
-To access the webpage, please copy and paste the link below to your web browser.
-
+To access the application, please copy and paste the link below to your web browser.
 https://babson-recipe-generator.herokuapp.com/recipe/
+
+
+To view our website, please visit:
+https://sites.google.com/babson.edu/recipe-generator/

@@ -79,4 +79,4 @@ def get_recipes_steps(ingredient,cal):
 #print(get_recipes_steps('pork',2000))
 #url=f'https://api.spoonacular.com/recipes/{659581}/analyzedInstructions?apiKey={MY_API_KEY}'
 #print(get_json(url))
-#print(get_recipes_title('pork',100))
+print(get_recipes_title('pork',100))
